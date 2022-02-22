@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C/C++ , Windows and Linux internals.
 - 👯 I’m looking to collaborate on C/C++ projects in Windows and linux.
 - 💬 Ask me about C/C++, C# and Books :)
-- 📫 How to reach me: ashitaka@tuta.io
+- 📫 How to reach me: SOON
 
 :heart: I LOVE books and try reading its:
 
