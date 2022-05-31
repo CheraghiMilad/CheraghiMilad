@@ -13,6 +13,5 @@
 
 ⚙️ I also maintain a few open-source projects: 
 
-- [WebFishing](https://github.com/CheraghiMilad/WebFishing) - Phishing is a type of social engineering attack often used to steal user data.[Private - public soon]
-
+- [WebFishing](https://github.com/CheraghiMilad/WebFishing) - Phishing is a type of social engineering attack often used to steal user data.
 
