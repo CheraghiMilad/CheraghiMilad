@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on MySelf.
 - 🌱 I’m currently learning C/C++ and Linux internals.
 - 👯 I’m looking to collaborate on C/C++ projects about linux.
-- 💬 Ask me about C/C++, C# and Books :)
+- 💬 Ask me about C/C++, python, linux and Books :)
 - 📫 How to reach me: SOON
 
 :heart: I LOVE books and try reading its:
