@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MySelf.
-- 🌱 I’m currently learning C/C++ and Linux internals.
+- 🔭 I’m currently working on myself.
+- 🌱 I’m try to learning C/C++/Rust/Linux/Windows internals.
 - 👯 I’m looking to collaborate on C/C++ projects about linux.
 - 💬 Ask me about C/C++, python, linux and Books :)
-- 📫 How to reach me: SOON
+- 📫 How to reach me: [here](https://www.linkedin.com/in/miladcheraghi)
 
-:heart: I LOVE books and try reading its:
+:heart: I love books and try reading its:
 
 - [READING-LIST](https://github.com/CheraghiMilad/Reading-Book/blob/main/README.md) - All of the books that i readed during life.
 
