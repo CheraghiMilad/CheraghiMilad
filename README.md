@@ -1,3 +1,6 @@
+[![CheraghiMilad GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheraghiMilad&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on myself.
