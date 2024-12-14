@@ -1,6 +1,8 @@
 ## ره زین شب تاریک نبردند برون، گفتند فسانه‌ای و در خواب شدند #خیام
 ### Hi there 👋
-[![CheraghiMilad GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheraghiMilad&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+| <a href="https://github.com/CheraghiMilad"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CheraghiMilad&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="CheraghiMilad's github stats" /></a> | <a href="https://github.com/CheraghiMilad"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheraghiMilad&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## What's Going On
 
