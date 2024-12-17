@@ -14,8 +14,6 @@
 
 :heart: I love books and try reading its:
 
-- [READING-LIST](https://github.com/CheraghiMilad/Reading-Book/blob/main/README.md) - All of the books that i readed during life.
-
 
 ⚙️ I also maintain a few open-source projects: 
 - [Crow SandBox](https://github.com/CheraghiMilad/Crow) - Sometimes if I have time I would like to work on this project :(
