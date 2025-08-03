@@ -6,17 +6,17 @@
 
 ## What's Going On
 
-- 🔭 I’m currently working on myself.
-- 🌱 I’m try to learning C/C++/Rust and Linux/Windows internals.
-- 👯 I’m looking to collaborate on C/C++ projects about linux.
-- 💬 Ask me about C/C++, python, linux and Books :)
-- 📫 How to reach me: [here](https://www.linkedin.com/in/miladcheraghi)
+- 🔐 I’m currently working in the field of threat detection.  
+- 📊 I’m focusing on understanding SIEM platforms like Splunk and ELK more deeply.  
+- 🛠️ I’m passionate about implementing, analyzing, and writing detection rules for attacks — especially in Linux environments.  
+- 🌐 Alongside all of this, I have a strong interest in networking and its security aspects.
 
-:heart: I love books and try reading its:
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miladcheraghi)
 
+- ❤️ I love books and always try to read more of them.
 
-⚙️ I also maintain a few open-source projects: 
-- [Crow SandBox](https://github.com/CheraghiMilad/Crow) - Sometimes if I have time I would like to work on this project :(
-- [Web Fishing](https://github.com/CheraghiMilad/WebFishing) - Phishing is a type of social engineering attack often used to steal user data.
-- [Detect Overflow](https://github.com/CheraghiMilad/DetectOverFlow) - An interesting and attractive idea is to use a debugger to monitor the functions called and their returns in the program and print the appropriate message if an overflow occurs.
+⚙️ I also maintain a few open-source projects:
 
+- [**Crow SandBox**](https://github.com/CheraghiMilad/Crow) – When I find the time, I enjoy working on this project.  
+- [**Web Fishing**](https://github.com/CheraghiMilad/WebFishing) – A phishing simulation project; phishing is a type of social engineering attack often used to steal user data.  
+- [**Detect Overflow**](https://github.com/CheraghiMilad/DetectOverFlow) – This project uses a debugger to monitor function calls and returns. It prints a warning message if an overflow is detected — an interesting and educational idea.
